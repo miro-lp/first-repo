@@ -1,3 +1,19 @@
+i aCreating with Tortoise…
+i am Pepi
+i am mimi
+how are you
+<<<<<<< .mine
 i am Pepi
 
 how are you
+
+
+
+=======
+
+Creating with Tortoise…
+i am mimi
+
+i am Pepi
+
+>>>>>>> .theirs
